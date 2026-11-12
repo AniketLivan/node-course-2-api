@@ -14,7 +14,7 @@
     "bson": "^4.0.2",
     "express": "^4.17.1",
     "mongodb": "^2.2.5",
-    "mongoose": "^5.6.6"
+    "mongoose": "^6.13.12"
   },
   "devDependencies": {
     "expect": "^1.20.2",
